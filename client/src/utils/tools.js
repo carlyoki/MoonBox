@@ -49,5 +49,5 @@ export default {
   // 表格无数据处理
   formatTableTDBlank,
   // 校验域名
-  isExternal,
+  isExternal
 }
